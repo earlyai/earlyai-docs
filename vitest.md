@@ -14,8 +14,14 @@ By default, the extension generates unit tests in **Jest** format. If you wish t
 
 To enable **Vitest** as your testing framework:
 
-1. Open the **Settings** screen in the extension.  
-   ![Settings Screen](https://raw.githubusercontent.com/earlyai/earlyai-docs/main/media/settings/settings.jpg "Settings Screen in the Extension")
+1. Open the **Settings** screen in the extension.
+
+   <br>
+   <figure>
+      <img src="https://raw.githubusercontent.com/earlyai/earlyai-docs/main/media/settings/settings.jpg"
+            alt="Settings Screen in the Extension" width=400 >
+   </figure>
+   <br>
 
 2. Locate the **Testing Framework** section.  
    ![Testing framework Screen](https://raw.githubusercontent.com/earlyai/earlyai-docs/main/media/settings/settings.jpg "Settings Screen in the Extension")
