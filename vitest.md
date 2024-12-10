@@ -23,7 +23,6 @@ To enable **Vitest** as your testing framework:
    <br>
 
 2. Locate the **Testing Framework** section.  
-   ![Testing framework Screen](https://raw.githubusercontent.com/earlyai/earlyai-docs/main/media/settings/settings.jpg "Settings Screen in the Extension")
    <br>
    <figure>
       <img src="https://raw.githubusercontent.com/earlyai/earlyai-docs/main/media/settings/settings.jpg"
@@ -60,11 +59,9 @@ After switching to **Vitest**, the process for generating tests remains the same
 - The **Testing Framework** dropdown also includes **Mocha** as an option if you wish to switch frameworks in the future.
 - You can change the testing framework at any time through the **Settings** screen.
 
-*(Placeholder: Screenshot of the dropdown options: Jest, Vitest, Mocha)*
-
 ---
 
-For more information on using **Vitest**, refer to the [Vitest documentation](https://vitest.dev/). If you encounter any issues, please visit our [support page](#) or [GitHub repository](#) to report them.
+For more information on using **Vitest**, refer to the [Vitest documentation](https://vitest.dev/). If you encounter any issues, please visit our [GitHub repository](https://github.com/earlyai/earlyai-vscode-release) to report them.
 
 ---
 
