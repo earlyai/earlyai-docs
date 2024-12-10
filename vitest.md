@@ -15,7 +15,7 @@ By default, the extension generates unit tests in **Jest** format. If you wish t
 To enable **Vitest** as your testing framework:
 
 1. Open the **Settings** screen in the extension.
-   <br>
+
    <figure>
       <img src="https://raw.githubusercontent.com/earlyai/earlyai-docs/main/media/settings/settings.jpg"
             alt="Settings Screen in the Extension" width=400 >
@@ -23,15 +23,15 @@ To enable **Vitest** as your testing framework:
    <br>
 
 2. Locate the **Testing Framework** section.  
-   <br>
+
    <figure>
-      <img src="https://raw.githubusercontent.com/earlyai/earlyai-docs/main/media/settings/settings.jpg"
+      <img src="https://raw.githubusercontent.com/earlyai/earlyai-docs/main/media/settings/testing_framework.jpg"
             alt="Testing Framework in the Settings" width=400 >
    </figure>
    <br>
 
 3. In the dropdown menu, select **Vitest**.  
-   <br>
+
    <figure>
       <img src="https://raw.githubusercontent.com/earlyai/earlyai-docs/main/media/settings/vitest.jpg"
             alt="Vitest in Testing Frameroks" width=400 >
@@ -49,8 +49,6 @@ After switching to **Vitest**, the process for generating tests remains the same
 1. Use the extension to locate the function or method you wish to test.  
 2. Initiate test generation using the "Generate Tests" button.  
 3. The generated tests will now use **Vitest** syntax and conventions.
-
-*(Placeholder: Example of a generated test file in Vitest format)*
 
 ---
 
