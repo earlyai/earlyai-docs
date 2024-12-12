@@ -75,7 +75,7 @@ Once you generate a test a VSCode notification bar will pop up on the bottom rig
 EarlyAI generates complex tests that includes mocks, logic, happy path and edge cases. We also  generate “Green” and “Red” unit tests.
 
 * <span style="color: green;">Green</span> are healthy passing unit tests
-* <span style="color: red;">Red</span> could be **good** tests that are revealing a bug or erroneous unit tests (bear with us as we improve the product).
+* <span style="color: red;">Red</span> could be **good** tests that are revealing a bug or erroneous unit tests.
 
 You can go-to the generated tests and view them in two ways.
 
